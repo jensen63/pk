@@ -1,1 +1,12 @@
 
+{
+    "repository": "https://github.com/jensen63/pk",
+    "stack": "container",
+	"env": {
+      "APP_NAME" : {
+        "description": "Name",
+                "value" : "",
+        "required" : true
+        }	
+    } 
+}
